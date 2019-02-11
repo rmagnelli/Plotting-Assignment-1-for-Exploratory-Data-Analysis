@@ -1,6 +1,6 @@
 ## Introduction
 
-*As cloned per request from Dr. Roger D. Peng repository <https://github.com/rdpeng/ExData_Plotting1>
+*As cloned per request from Dr. Roger D. Peng repository <https://github.com/rdpeng/ExData_Plotting1>*
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
